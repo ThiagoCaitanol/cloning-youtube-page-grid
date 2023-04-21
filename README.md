@@ -1,7 +1,7 @@
 <h1>Projeto: Clonando pagina do youtube GRID</h1>
 <p>Este é um projeto de clone estático do YouTube que utiliza a propriedade CSS display: grid para criar um layout responsivo e moderno. O objetivo deste projeto é melhorar as habilidades em HTML e CSS, bem como aprofundar o conhecimento em grid layout.</p><hr>
 <p align="center">
-  <img src="" alt="Exemplo de projeto" />
+  <img src="capturar" alt="Exemplo de projeto" />
 </p>
 
 <h2>Tecnologias Utilizadas</h2>
