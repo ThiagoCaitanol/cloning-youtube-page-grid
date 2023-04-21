@@ -76,8 +76,8 @@ main {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    gap: 20px;
-    justify-items: center;
+    gap: 0px;
+    justify-items: flex-start;
     align-items: center;
     justify-content: stretch;
 
